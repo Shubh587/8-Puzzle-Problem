@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-# Author: Shubh Savani
-# Date Due: 04/18/22
-# Date Submitted: 04/21/22
+# Developer: Shubh Savani
 
 import argparse
 import copy
